@@ -56,7 +56,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 📧 Questions:
 If you have any questions or need further assistance, feel free to reach out.
-- GitHub: [Your GitHub Username](https://github.com/3rikMtz)
+- GitHub: [Your GitHub 3rikMtz](https://github.com/3rikMtz)
 - Email: eri0305@hotmail.com
 
 Now you have a concise and clean README with the necessary information, best practices, and a touch of emojis! 🎉
